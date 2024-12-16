@@ -22,7 +22,7 @@ export default function Credits(){
             <h2 className='text-3xl italic place-content-center place-self-center'>Outside links</h2>
                 <LinkNewWindow href="https://www.shadertoy.com/view/XlfGRj">Background by: @Kali</LinkNewWindow>
                 <br/>
-                <LinkNewWindow href="">Github Project Files [Not yet]</LinkNewWindow>
+                <LinkNewWindow href="https://github.com/Intermentality/NovaInOrion-IWEB">Github Project Files</LinkNewWindow>
             </div>
 
             {/*Main Tools*/}
