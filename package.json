@@ -2,7 +2,7 @@
     "name": "einty-iweb",
     "private": true,
     "type": "module",
-    "homepage": "https://intermentality.github.io/novainorion-iweb/",
+    "homepage": "https://intermentality.github.io/NovaInOrion-IWEB/",
     "scripts": {
         "dev": "vite",
         "build": "tsc -b && vite build",
