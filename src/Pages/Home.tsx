@@ -7,7 +7,7 @@ export default function Home(){
             <h1 className="text-5xl">Nova in Orion, 2019</h1>
 
             <h2>Overview</h2>
-            <li>Used name for search: V2860 Ori.</li>
+            <li>Used name for search: PNV J06095740+1212255.</li>
             <li>Discovered by: Shigehisa Fujikawa.</li>
             <li>Discovered at: Kanagawa/Japan.</li>
             <li>Classical He/N Nova in the Orion constellation.</li>
@@ -28,6 +28,13 @@ export default function Home(){
                 and planets. 
             </Paragraph>
             <LinkNewWindow href="https://esawebb.org/wordbank/spectrograph-spectroscopy/#:~:text=Spectroscopy%20is%20a%20fundamental%20tool,and%20the%20atmospheres%20of%20planets">Source: Esawebb.org</LinkNewWindow>
+
+            <h2>What's a Nova?</h2>
+            <Paragraph>
+                A nova is an exploding star(s) which temporaily increases the 
+                luminosity from several to much as one hundred thousand.
+            </Paragraph>
+            <LinkNewWindow href="https://www.britannica.com/science/nova-astronomy">Source: Britannica.com</LinkNewWindow>
 
             <h2>What does He/N mean?</h2>
             <Paragraph>
